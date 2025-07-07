@@ -1,4 +1,5 @@
 ﻿# dev_personality
+ ![image](https://github.com/user-attachments/assets/85b63af0-06ac-4e23-a86e-d509e168671f)
 ---
 # 나는 어떤 성격의 개발자일까?
 
